@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-11 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-12-11 00:00:53 +0000",
+      "forest_hills": "2024-12-11 00:00:48 +0000",
+      "plains": "2024-12-10 23:59:09 +0000"
+    },
+    "done": false
+  }
+}
