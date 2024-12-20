@@ -419,3 +419,15 @@
 [23:48:29] [Server thread/INFO]: [ElCholl1: Set own game mode to Adventure Mode]
 [23:48:34] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
 [23:48:34] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[23:49:17] [Async Chat Thread - #4/INFO]: <RompOrTos> mno cuanto fps
+[23:49:23] [Async Chat Thread - #4/INFO]: <ElCholl1> 60
+[23:49:42] [Async Chat Thread - #4/INFO]: <RompOrTos> por ahi
+[23:49:58] [Server thread/INFO]: ElCholl1 has made the advancement [A Seedy Place]
+[23:51:20] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 1
+[23:51:20] [Server thread/INFO]: [ElCholl1: Set own game mode to Creative Mode]
+[23:51:36] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
+[23:51:36] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[23:51:41] [Server thread/INFO]: RompOrTos has made the advancement [Monster Hunter]
+[23:51:51] [Server thread/INFO]: ElCholl1 has made the advancement [Monster Hunter]
+[23:52:07] [Server thread/INFO]: RompOrTos issued server command: /time set day
+[23:52:07] [Server thread/INFO]: [RompOrTos: Set the time to 1000]
