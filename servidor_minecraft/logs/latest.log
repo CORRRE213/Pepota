@@ -14,3 +14,347 @@
 [00:08:55] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
 [00:08:55] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
 [00:09:08] [Server thread/INFO]: ElCholl1 has made the advancement [Stone Age]
+[00:09:30] [Server thread/INFO]: RompOrTos issued server command: /gamemode survival
+[00:09:30] [Server thread/INFO]: [RompOrTos: Set own game mode to Survival Mode]
+[00:09:40] [Server thread/INFO]: ElCholl1 issued server command: /give ElCholl1 64 coal
+[00:09:40] [Server thread/INFO]: [ElCholl1: There is no such item with name minecraft:64]
+[00:09:46] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 1
+[00:09:46] [Server thread/INFO]: [ElCholl1: Set own game mode to Creative Mode]
+[00:10:00] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
+[00:10:00] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[00:11:37] [Server thread/INFO]: RompOrTos issued server command: /time set day
+[00:11:37] [Server thread/INFO]: [RompOrTos: Set the time to 1000]
+[00:11:46] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
+[00:11:46] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
+[00:14:20] [Server thread/INFO]: RompOrTos issued server command: /gamemode survival
+[00:14:20] [Server thread/INFO]: [RompOrTos: Set own game mode to Survival Mode]
+[00:15:31] [Server thread/INFO]: RompOrTos fell from a high place
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:33] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:15:59] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
+[00:15:59] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:14] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:23] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:16:39] [Server thread/INFO]: ElCholl1 issued server command: /give ElCholl1 minecraft:ender_pearl 64
+[00:16:39] [Server thread/INFO]: [ElCholl1: The number you have entered (64) is too big, it must be at most 16]
+[00:16:49] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
+[00:16:49] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[00:16:55] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 1
+[00:16:55] [Server thread/INFO]: [ElCholl1: Set own game mode to Creative Mode]
+[00:17:22] [Server thread/INFO]: RompOrTos issued server command: /gamemode survival
+[00:17:22] [Server thread/INFO]: [RompOrTos: Set own game mode to Survival Mode]
+[00:17:22] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
+[00:17:22] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:09] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:13] [Server thread/INFO]: RompOrTos fell from a high place
+[00:18:43] [Server thread/INFO]: ElCholl1 blew up
+[00:18:51] [Server thread/INFO]: ElCholl1 issued server command: /tp RompOrTos
+[00:18:51] [Server thread/INFO]: [ElCholl1: Teleported ElCholl1 to RompOrTos]
+[00:19:13] [Server thread/INFO]: RompOrTos issued server command: /tp ElCholl1
+[00:19:13] [Server thread/INFO]: [RompOrTos: Teleported RompOrTos to ElCholl1]
+[00:19:23] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
+[00:19:23] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
+[00:19:42] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 1
+[00:19:42] [Server thread/INFO]: [ElCholl1: Set own game mode to Creative Mode]
+[00:20:14] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 0
+[00:20:14] [Server thread/INFO]: [ElCholl1: Set own game mode to Survival Mode]
+[00:20:38] [Server thread/INFO]: RompOrTos issued server command: /gamemode survival
+[00:20:38] [Server thread/INFO]: [RompOrTos: Set own game mode to Survival Mode]
+[00:20:38] [Server thread/INFO]: ElCholl1 issued server command: /time set 1000
+[00:20:38] [Server thread/INFO]: [ElCholl1: Set the time to 1000]
+[00:21:42] [Server thread/INFO]: ElCholl1 blew up
+[00:21:54] [Server thread/INFO]: ElCholl1 issued server command: /tp RompOrTos
+[00:21:54] [Server thread/INFO]: [ElCholl1: Teleported ElCholl1 to RompOrTos]
+[00:22:05] [Server thread/INFO]: RompOrTos blew up
+[00:22:05] [Server thread/INFO]: ElCholl1 blew up
+[00:22:18] [Server thread/INFO]: ElCholl1 issued server command: /gamemode 1
+[00:22:18] [Server thread/INFO]: [ElCholl1: Set own game mode to Creative Mode]
+[00:22:32] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
+[00:22:32] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:36] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:37] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:37] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:37] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:37] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:38] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:39] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:40] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:42] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:43] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:22:44] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:23:48] [Async Chat Thread - #6/INFO]: <RompOrTos> mnao
+[00:23:53] [Async Chat Thread - #6/INFO]: <RompOrTos> mano se me desconecto
+[00:24:20] [Async Chat Thread - #6/INFO]: <ElCholl1> si
+[00:24:24] [Async Chat Thread - #6/INFO]: <ElCholl1> no te escucho
+[00:26:40] [Async Chat Thread - #7/INFO]: <RompOrTos> mno mi pc ta q explot
+[00:27:05] [Async Chat Thread - #7/INFO]: <ElCholl1> q fue
+[00:27:22] [Async Chat Thread - #7/INFO]: <RompOrTos> xdd
+[00:27:27] [Async Chat Thread - #7/INFO]: <RompOrTos> tq no hbre
+[00:27:35] [Async Chat Thread - #7/INFO]: <RompOrTos> abre la cosa p
+[00:28:10] [Async Chat Thread - #7/INFO]: <RompOrTos> taq como ganador de mill batallas
+[00:28:44] [Async Chat Thread - #7/INFO]: <RompOrTos> verd donde es
+[00:28:45] [Async Chat Thread - #7/INFO]: <ElCholl1> asu mare
+[00:28:50] [Async Chat Thread - #7/INFO]: <ElCholl1> hagase tp
+[00:29:03] [Server thread/INFO]: RompOrTos issued server command: /tp ElCholl1
+[00:29:03] [Server thread/INFO]: [RompOrTos: Teleported RompOrTos to ElCholl1]
+[00:29:08] [Async Chat Thread - #7/INFO]: <RompOrTos> xd

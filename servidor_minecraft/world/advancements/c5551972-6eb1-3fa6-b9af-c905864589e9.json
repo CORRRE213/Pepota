@@ -77,11 +77,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 00:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-11 00:00:53 +0000",
       "forest_hills": "2024-12-11 00:00:48 +0000",
-      "plains": "2024-12-10 23:59:09 +0000"
+      "plains": "2024-12-10 23:59:09 +0000",
+      "river": "2024-12-21 00:15:31 +0000"
     },
     "done": false
   },
@@ -94,6 +101,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 23:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-21 00:15:45 +0000"
     },
     "done": true
   },
@@ -223,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2024-12-20 23:48:17 +0000"
@@ -232,6 +251,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-20 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:19:55 +0000"
     },
     "done": true
   },
@@ -265,6 +290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-11 00:01:24 +0000"
@@ -279,6 +310,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-21 00:17:46 +0000",
       "spider": "2024-12-20 23:51:41 +0000"
     },
     "done": false
@@ -289,8 +321,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-21 00:14:35 +0000",
+      "porkchop": "2024-12-21 00:09:54 +0000",
       "bread": "2024-12-20 23:51:49 +0000"
     },
     "done": false
@@ -310,6 +350,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-20 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-21 00:17:00 +0000"
     },
     "done": true
   },
